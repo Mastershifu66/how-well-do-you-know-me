@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 h1{
-    align-items: center;
+    margin-top: 100px;
     padding-left: 200px;
     color: rgb(217, 223, 221);
 }
@@ -54,7 +54,7 @@ body{
 
 }
 .btn:disabled{
-    cursor:no-drop;
+    cursor:no-drop
 }
 /*now i wanna hide the button*/
 #next-btn{
